@@ -23,4 +23,4 @@ class ViewController: UIViewController {
 
 }
 
-prntln("heheh")
+println("Hi!")
